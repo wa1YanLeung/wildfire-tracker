@@ -1,6 +1,6 @@
 # Wildfire Tracker (Powered by NASA)
 
-##This is a React app to track realtime wildfires on Google Map using NASA's Open API.
+## This is a React app to track realtime wildfires on Google Map using NASA's Open API.
 
 https://wildfiretracker21.netlify.app/
 
